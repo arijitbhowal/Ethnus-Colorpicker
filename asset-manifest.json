@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ethnus-Colorpicker/static/css/main.54553415.css",
+    "main.js": "/Ethnus-Colorpicker/static/js/main.a725370e.js",
+    "static/js/787.6018e935.chunk.js": "/Ethnus-Colorpicker/static/js/787.6018e935.chunk.js",
+    "static/media/bg.jpg": "/Ethnus-Colorpicker/static/media/bg.4dda00702477e29e5878.jpg",
+    "index.html": "/Ethnus-Colorpicker/index.html",
+    "main.54553415.css.map": "/Ethnus-Colorpicker/static/css/main.54553415.css.map",
+    "main.a725370e.js.map": "/Ethnus-Colorpicker/static/js/main.a725370e.js.map",
+    "787.6018e935.chunk.js.map": "/Ethnus-Colorpicker/static/js/787.6018e935.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54553415.css",
+    "static/js/main.a725370e.js"
+  ]
+}
